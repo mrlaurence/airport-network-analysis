@@ -1,0 +1,292 @@
+[
+     {
+          "code": "AO",
+          "code3": "AGO",
+          "name": "Angola"
+     },
+     {
+          "code": "BF",
+          "code3": "BFA",
+          "name": "Burkina Faso"
+     },
+     {
+          "code": "BI",
+          "code3": "BDI",
+          "name": "Burundi"
+     },
+     {
+          "code": "BJ",
+          "code3": "BEN",
+          "name": "Benin"
+     },
+     {
+          "code": "BW",
+          "code3": "BWA",
+          "name": "Botswana"
+     },
+     {
+          "code": "CD",
+          "code3": "COD",
+          "name": "Democratic Republic of the Congo"
+     },
+     {
+          "code": "CF",
+          "code3": "CAF",
+          "name": "Central African Republic"
+     },
+     {
+          "code": "CG",
+          "code3": "COG",
+          "name": "Republic of the Congo"
+     },
+     {
+          "code": "CI",
+          "code3": "CIV",
+          "name": "Ivory Coast"
+     },
+     {
+          "code": "CM",
+          "code3": "CMR",
+          "name": "Cameroon"
+     },
+     {
+          "code": "CV",
+          "code3": "CPV",
+          "name": "Cabo Verde"
+     },
+     {
+          "code": "DJ",
+          "code3": "DJI",
+          "name": "Djibouti"
+     },
+     {
+          "code": "DZ",
+          "code3": "DZA",
+          "name": "Algeria"
+     },
+     {
+          "code": "EG",
+          "code3": "EGY",
+          "name": "Egypt"
+     },
+     {
+          "code": "EH",
+          "code3": "ESH",
+          "name": "Western Sahara"
+     },
+     {
+          "code": "ER",
+          "code3": "ERI",
+          "name": "Eritrea"
+     },
+     {
+          "code": "ET",
+          "code3": "ETH",
+          "name": "Ethiopia"
+     },
+     {
+          "code": "GA",
+          "code3": "GAB",
+          "name": "Gabon"
+     },
+     {
+          "code": "GH",
+          "code3": "GHA",
+          "name": "Ghana"
+     },
+     {
+          "code": "GM",
+          "code3": "GMB",
+          "name": "Gambia"
+     },
+     {
+          "code": "GN",
+          "code3": "GIN",
+          "name": "Guinea"
+     },
+     {
+          "code": "GQ",
+          "code3": "GNQ",
+          "name": "Equatorial Guinea"
+     },
+     {
+          "code": "GW",
+          "code3": "GNB",
+          "name": "Guinea-Bissau"
+     },
+     {
+          "code": "KE",
+          "code3": "KEN",
+          "name": "Kenya"
+     },
+     {
+          "code": "KM",
+          "code3": "COM",
+          "name": "Comoros"
+     },
+     {
+          "code": "LR",
+          "code3": "LBR",
+          "name": "Liberia"
+     },
+     {
+          "code": "LS",
+          "code3": "LSO",
+          "name": "Lesotho"
+     },
+     {
+          "code": "LY",
+          "code3": "LBY",
+          "name": "Libya"
+     },
+     {
+          "code": "MA",
+          "code3": "MAR",
+          "name": "Morocco"
+     },
+     {
+          "code": "MG",
+          "code3": "MDG",
+          "name": "Madagascar"
+     },
+     {
+          "code": "ML",
+          "code3": "MLI",
+          "name": "Mali"
+     },
+     {
+          "code": "MR",
+          "code3": "MRT",
+          "name": "Mauritania"
+     },
+     {
+          "code": "MU",
+          "code3": "MUS",
+          "name": "Mauritius"
+     },
+     {
+          "code": "MW",
+          "code3": "MWI",
+          "name": "Malawi"
+     },
+     {
+          "code": "MZ",
+          "code3": "MOZ",
+          "name": "Mozambique"
+     },
+     {
+          "code": "NA",
+          "code3": "NAM",
+          "name": "Namibia"
+     },
+     {
+          "code": "NE",
+          "code3": "NER",
+          "name": "Niger"
+     },
+     {
+          "code": "NG",
+          "code3": "NGA",
+          "name": "Nigeria"
+     },
+     {
+          "code": "RE",
+          "code3": "REU",
+          "name": "Reunion"
+     },
+     {
+          "code": "RW",
+          "code3": "RWA",
+          "name": "Rwanda"
+     },
+     {
+          "code": "SC",
+          "code3": "SYC",
+          "name": "Seychelles"
+     },
+     {
+          "code": "SD",
+          "code3": "SDN",
+          "name": "Sudan"
+     },
+     {
+          "code": "SH",
+          "code3": "SHN",
+          "name": "Saint Helena"
+     },
+     {
+          "code": "SL",
+          "code3": "SLE",
+          "name": "Sierra Leone"
+     },
+     {
+          "code": "SN",
+          "code3": "SEN",
+          "name": "Senegal"
+     },
+     {
+          "code": "SO",
+          "code3": "SOM",
+          "name": "Somalia"
+     },
+     {
+          "code": "SS",
+          "code3": "SSD",
+          "name": "South Sudan"
+     },
+     {
+          "code": "ST",
+          "code3": "STP",
+          "name": "Sao Tome and Principe"
+     },
+     {
+          "code": "SZ",
+          "code3": "SWZ",
+          "name": "Eswatini"
+     },
+     {
+          "code": "TD",
+          "code3": "TCD",
+          "name": "Chad"
+     },
+     {
+          "code": "TG",
+          "code3": "TGO",
+          "name": "Togo"
+     },
+     {
+          "code": "TN",
+          "code3": "TUN",
+          "name": "Tunisia"
+     },
+     {
+          "code": "TZ",
+          "code3": "TZA",
+          "name": "Tanzania"
+     },
+     {
+          "code": "UG",
+          "code3": "UGA",
+          "name": "Uganda"
+     },
+     {
+          "code": "YT",
+          "code3": "MYT",
+          "name": "Mayotte"
+     },
+     {
+          "code": "ZA",
+          "code3": "ZAF",
+          "name": "South Africa"
+     },
+     {
+          "code": "ZM",
+          "code3": "ZMB",
+          "name": "Zambia"
+     },
+     {
+          "code": "ZW",
+          "code3": "ZWE",
+          "name": "Zimbabwe"
+     }
+]

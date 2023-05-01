@@ -1,0 +1,72 @@
+[
+     {
+          "code": "AR",
+          "code3": "ARG",
+          "name": "Argentina"
+     },
+     {
+          "code": "BO",
+          "code3": "BOL",
+          "name": "Bolivia"
+     },
+     {
+          "code": "BR",
+          "code3": "BRA",
+          "name": "Brazil"
+     },
+     {
+          "code": "CL",
+          "code3": "CHL",
+          "name": "Chile"
+     },
+     {
+          "code": "CO",
+          "code3": "COL",
+          "name": "Colombia"
+     },
+     {
+          "code": "EC",
+          "code3": "ECU",
+          "name": "Ecuador"
+     },
+     {
+          "code": "FK",
+          "code3": "FLK",
+          "name": "Falkland Islands"
+     },
+     {
+          "code": "GF",
+          "code3": "GUF",
+          "name": "French Guiana"
+     },
+     {
+          "code": "GY",
+          "code3": "GUY",
+          "name": "Guyana"
+     },
+     {
+          "code": "PE",
+          "code3": "PER",
+          "name": "Peru"
+     },
+     {
+          "code": "PY",
+          "code3": "PRY",
+          "name": "Paraguay"
+     },
+     {
+          "code": "SR",
+          "code3": "SUR",
+          "name": "Suriname"
+     },
+     {
+          "code": "UY",
+          "code3": "URY",
+          "name": "Uruguay"
+     },
+     {
+          "code": "VE",
+          "code3": "VEN",
+          "name": "Venezuela"
+     }
+]

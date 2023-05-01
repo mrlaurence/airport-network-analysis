@@ -1,0 +1,142 @@
+[
+     {
+          "code": "AS",
+          "code3": "ASM",
+          "name": "American Samoa"
+     },
+     {
+          "code": "AU",
+          "code3": "AUS",
+          "name": "Australia"
+     },
+     {
+          "code": "CK",
+          "code3": "COK",
+          "name": "Cook Islands"
+     },
+     {
+          "code": "CX",
+          "code3": "CXR",
+          "name": "Christmas Island"
+     },
+     {
+          "code": "FJ",
+          "code3": "FJI",
+          "name": "Fiji"
+     },
+     {
+          "code": "FM",
+          "code3": "FSM",
+          "name": "Micronesia"
+     },
+     {
+          "code": "GU",
+          "code3": "GUM",
+          "name": "Guam"
+     },
+     {
+          "code": "KI",
+          "code3": "KIR",
+          "name": "Kiribati"
+     },
+     {
+          "code": "MH",
+          "code3": "MHL",
+          "name": "Marshall Islands"
+     },
+     {
+          "code": "MP",
+          "code3": "MNP",
+          "name": "Northern Mariana Islands"
+     },
+     {
+          "code": "NC",
+          "code3": "NCL",
+          "name": "New Caledonia"
+     },
+     {
+          "code": "NF",
+          "code3": "NFK",
+          "name": "Norfolk Island"
+     },
+     {
+          "code": "NR",
+          "code3": "NRU",
+          "name": "Nauru"
+     },
+     {
+          "code": "NU",
+          "code3": "NIU",
+          "name": "Niue"
+     },
+     {
+          "code": "NZ",
+          "code3": "NZL",
+          "name": "New Zealand"
+     },
+     {
+          "code": "PF",
+          "code3": "PYF",
+          "name": "French Polynesia"
+     },
+     {
+          "code": "PG",
+          "code3": "PNG",
+          "name": "Papua New Guinea"
+     },
+     {
+          "code": "PN",
+          "code3": "PCN",
+          "name": "Pitcairn"
+     },
+     {
+          "code": "PW",
+          "code3": "PLW",
+          "name": "Palau"
+     },
+     {
+          "code": "SB",
+          "code3": "SLB",
+          "name": "Solomon Islands"
+     },
+     {
+          "code": "TK",
+          "code3": "TKL",
+          "name": "Tokelau"
+     },
+     {
+          "code": "TL",
+          "code3": "TLS",
+          "name": "Timor Leste"
+     },
+     {
+          "code": "TO",
+          "code3": "TON",
+          "name": "Tonga"
+     },
+     {
+          "code": "TV",
+          "code3": "TUV",
+          "name": "Tuvalu"
+     },
+     {
+          "code": "UM",
+          "code3": "UMI",
+          "name": "United States Minor Outlying Islands"
+     },
+     {
+          "code": "VU",
+          "code3": "VUT",
+          "name": "Vanuatu"
+     },
+     {
+          "code": "WF",
+          "code3": "WLF",
+          "name": "Wallis and Futuna"
+     },
+     {
+          "code": "WS",
+          "code3": "WSM",
+          "name": "Samoa"
+     }
+]

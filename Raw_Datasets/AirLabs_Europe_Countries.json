@@ -1,0 +1,272 @@
+[
+   {
+      "code" : "AD",
+      "code3" : "AND",
+      "name" : "Andorra"
+   },
+   {
+      "code" : "AL",
+      "code3" : "ALB",
+      "name" : "Albania"
+   },
+   {
+      "code" : "AT",
+      "code3" : "AUT",
+      "name" : "Austria"
+   },
+   {
+      "code" : "AX",
+      "code3" : "ALA",
+      "name" : "Aland Islands"
+   },
+   {
+      "code" : "BA",
+      "code3" : "BIH",
+      "name" : "Bosnia and Herzegovina"
+   },
+   {
+      "code" : "BE",
+      "code3" : "BEL",
+      "name" : "Belgium"
+   },
+   {
+      "code" : "BG",
+      "code3" : "BGR",
+      "name" : "Bulgaria"
+   },
+   {
+      "code" : "BY",
+      "code3" : "BLR",
+      "name" : "Belarus"
+   },
+   {
+      "code" : "CH",
+      "code3" : "CHE",
+      "name" : "Switzerland"
+   },
+   {
+      "code" : "CS",
+      "code3" : "SCG",
+      "name" : "Serbia and Montenegro"
+   },
+   {
+      "code" : "CY",
+      "code3" : "CYP",
+      "name" : "Cyprus"
+   },
+   {
+      "code" : "CZ",
+      "code3" : "CZE",
+      "name" : "Czechia"
+   },
+   {
+      "code" : "DE",
+      "code3" : "DEU",
+      "name" : "Germany"
+   },
+   {
+      "code" : "DK",
+      "code3" : "DNK",
+      "name" : "Denmark"
+   },
+   {
+      "code" : "EE",
+      "code3" : "EST",
+      "name" : "Estonia"
+   },
+   {
+      "code" : "ES",
+      "code3" : "ESP",
+      "name" : "Spain"
+   },
+   {
+      "code" : "FI",
+      "code3" : "FIN",
+      "name" : "Finland"
+   },
+   {
+      "code" : "FO",
+      "code3" : "FRO",
+      "name" : "Faroe Islands"
+   },
+   {
+      "code" : "FR",
+      "code3" : "FRA",
+      "name" : "France"
+   },
+   {
+      "code" : "GB",
+      "code3" : "GBR",
+      "name" : "United Kingdom"
+   },
+   {
+      "code" : "GG",
+      "code3" : "GGY",
+      "name" : "Guernsey"
+   },
+   {
+      "code" : "GI",
+      "code3" : "GIB",
+      "name" : "Gibraltar"
+   },
+   {
+      "code" : "GR",
+      "code3" : "GRC",
+      "name" : "Greece"
+   },
+   {
+      "code" : "HR",
+      "code3" : "HRV",
+      "name" : "Croatia"
+   },
+   {
+      "code" : "HU",
+      "code3" : "HUN",
+      "name" : "Hungary"
+   },
+   {
+      "code" : "IE",
+      "code3" : "IRL",
+      "name" : "Ireland"
+   },
+   {
+      "code" : "IM",
+      "code3" : "IMN",
+      "name" : "Isle of Man"
+   },
+   {
+      "code" : "IS",
+      "code3" : "ISL",
+      "name" : "Iceland"
+   },
+   {
+      "code" : "IT",
+      "code3" : "ITA",
+      "name" : "Italy"
+   },
+   {
+      "code" : "JE",
+      "code3" : "JEY",
+      "name" : "Jersey"
+   },
+   {
+      "code" : "LI",
+      "code3" : "LIE",
+      "name" : "Liechtenstein"
+   },
+   {
+      "code" : "LT",
+      "code3" : "LTU",
+      "name" : "Lithuania"
+   },
+   {
+      "code" : "LU",
+      "code3" : "LUX",
+      "name" : "Luxembourg"
+   },
+   {
+      "code" : "LV",
+      "code3" : "LVA",
+      "name" : "Latvia"
+   },
+   {
+      "code" : "MC",
+      "code3" : "MCO",
+      "name" : "Monaco"
+   },
+   {
+      "code" : "MD",
+      "code3" : "MDA",
+      "name" : "Moldova"
+   },
+   {
+      "code" : "ME",
+      "code3" : "MNE",
+      "name" : "Montenegro"
+   },
+   {
+      "code" : "MK",
+      "code3" : "MKD",
+      "name" : "North Macedonia"
+   },
+   {
+      "code" : "MT",
+      "code3" : "MLT",
+      "name" : "Malta"
+   },
+   {
+      "code" : "NL",
+      "code3" : "NLD",
+      "name" : "Netherlands"
+   },
+   {
+      "code" : "NO",
+      "code3" : "NOR",
+      "name" : "Norway"
+   },
+   {
+      "code" : "PL",
+      "code3" : "POL",
+      "name" : "Poland"
+   },
+   {
+      "code" : "PT",
+      "code3" : "PRT",
+      "name" : "Portugal"
+   },
+   {
+      "code" : "RO",
+      "code3" : "ROU",
+      "name" : "Romania"
+   },
+   {
+      "code" : "RS",
+      "code3" : "SRB",
+      "name" : "Serbia"
+   },
+   {
+      "code" : "RU",
+      "code3" : "RUS",
+      "name" : "Russia"
+   },
+   {
+      "code" : "SE",
+      "code3" : "SWE",
+      "name" : "Sweden"
+   },
+   {
+      "code" : "SI",
+      "code3" : "SVN",
+      "name" : "Slovenia"
+   },
+   {
+      "code" : "SJ",
+      "code3" : "SJM",
+      "name" : "Svalbard and Jan Mayen"
+   },
+   {
+      "code" : "SK",
+      "code3" : "SVK",
+      "name" : "Slovakia"
+   },
+   {
+      "code" : "SM",
+      "code3" : "SMR",
+      "name" : "San Marino"
+   },
+   {
+      "code" : "UA",
+      "code3" : "UKR",
+      "name" : "Ukraine"
+   },
+   {
+      "code" : "VA",
+      "code3" : "VAT",
+      "name" : "Vatican"
+   },
+   {
+      "code" : "XK",
+      "code3" : "XKX",
+      "name" : "Kosovo"
+   }
+]

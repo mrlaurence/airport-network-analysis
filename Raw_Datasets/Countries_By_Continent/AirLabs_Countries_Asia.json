@@ -1,0 +1,257 @@
+[
+     {
+          "code": "AE",
+          "code3": "ARE",
+          "name": "United Arab Emirates"
+     },
+     {
+          "code": "AF",
+          "code3": "AFG",
+          "name": "Afghanistan"
+     },
+     {
+          "code": "AM",
+          "code3": "ARM",
+          "name": "Armenia"
+     },
+     {
+          "code": "AZ",
+          "code3": "AZE",
+          "name": "Azerbaijan"
+     },
+     {
+          "code": "BD",
+          "code3": "BGD",
+          "name": "Bangladesh"
+     },
+     {
+          "code": "BH",
+          "code3": "BHR",
+          "name": "Bahrain"
+     },
+     {
+          "code": "BN",
+          "code3": "BRN",
+          "name": "Brunei"
+     },
+     {
+          "code": "BT",
+          "code3": "BTN",
+          "name": "Bhutan"
+     },
+     {
+          "code": "CC",
+          "code3": "CCK",
+          "name": "Cocos Islands"
+     },
+     {
+          "code": "CN",
+          "code3": "CHN",
+          "name": "China"
+     },
+     {
+          "code": "GE",
+          "code3": "GEO",
+          "name": "Georgia"
+     },
+     {
+          "code": "HK",
+          "code3": "HKG",
+          "name": "Hong Kong"
+     },
+     {
+          "code": "ID",
+          "code3": "IDN",
+          "name": "Indonesia"
+     },
+     {
+          "code": "IL",
+          "code3": "ISR",
+          "name": "Israel"
+     },
+     {
+          "code": "IN",
+          "code3": "IND",
+          "name": "India"
+     },
+     {
+          "code": "IO",
+          "code3": "IOT",
+          "name": "British Indian Ocean Territory"
+     },
+     {
+          "code": "IQ",
+          "code3": "IRQ",
+          "name": "Iraq"
+     },
+     {
+          "code": "IR",
+          "code3": "IRN",
+          "name": "Iran"
+     },
+     {
+          "code": "JO",
+          "code3": "JOR",
+          "name": "Jordan"
+     },
+     {
+          "code": "JP",
+          "code3": "JPN",
+          "name": "Japan"
+     },
+     {
+          "code": "KG",
+          "code3": "KGZ",
+          "name": "Kyrgyzstan"
+     },
+     {
+          "code": "KH",
+          "code3": "KHM",
+          "name": "Cambodia"
+     },
+     {
+          "code": "KP",
+          "code3": "PRK",
+          "name": "North Korea"
+     },
+     {
+          "code": "KR",
+          "code3": "KOR",
+          "name": "South Korea"
+     },
+     {
+          "code": "KW",
+          "code3": "KWT",
+          "name": "Kuwait"
+     },
+     {
+          "code": "KZ",
+          "code3": "KAZ",
+          "name": "Kazakhstan"
+     },
+     {
+          "code": "LA",
+          "code3": "LAO",
+          "name": "Laos"
+     },
+     {
+          "code": "LB",
+          "code3": "LBN",
+          "name": "Lebanon"
+     },
+     {
+          "code": "LK",
+          "code3": "LKA",
+          "name": "Sri Lanka"
+     },
+     {
+          "code": "MM",
+          "code3": "MMR",
+          "name": "Myanmar"
+     },
+     {
+          "code": "MN",
+          "code3": "MNG",
+          "name": "Mongolia"
+     },
+     {
+          "code": "MO",
+          "code3": "MAC",
+          "name": "Macao"
+     },
+     {
+          "code": "MV",
+          "code3": "MDV",
+          "name": "Maldives"
+     },
+     {
+          "code": "MY",
+          "code3": "MYS",
+          "name": "Malaysia"
+     },
+     {
+          "code": "NP",
+          "code3": "NPL",
+          "name": "Nepal"
+     },
+     {
+          "code": "OM",
+          "code3": "OMN",
+          "name": "Oman"
+     },
+     {
+          "code": "PH",
+          "code3": "PHL",
+          "name": "Philippines"
+     },
+     {
+          "code": "PK",
+          "code3": "PAK",
+          "name": "Pakistan"
+     },
+     {
+          "code": "PS",
+          "code3": "PSE",
+          "name": "Palestinian Territory"
+     },
+     {
+          "code": "QA",
+          "code3": "QAT",
+          "name": "Qatar"
+     },
+     {
+          "code": "SA",
+          "code3": "SAU",
+          "name": "Saudi Arabia"
+     },
+     {
+          "code": "SG",
+          "code3": "SGP",
+          "name": "Singapore"
+     },
+     {
+          "code": "SY",
+          "code3": "SYR",
+          "name": "Syria"
+     },
+     {
+          "code": "TH",
+          "code3": "THA",
+          "name": "Thailand"
+     },
+     {
+          "code": "TJ",
+          "code3": "TJK",
+          "name": "Tajikistan"
+     },
+     {
+          "code": "TM",
+          "code3": "TKM",
+          "name": "Turkmenistan"
+     },
+     {
+          "code": "TR",
+          "code3": "TUR",
+          "name": "Turkey"
+     },
+     {
+          "code": "TW",
+          "code3": "TWN",
+          "name": "Taiwan"
+     },
+     {
+          "code": "UZ",
+          "code3": "UZB",
+          "name": "Uzbekistan"
+     },
+     {
+          "code": "VN",
+          "code3": "VNM",
+          "name": "Vietnam"
+     },
+     {
+          "code": "YE",
+          "code3": "YEM",
+          "name": "Yemen"
+     }
+]

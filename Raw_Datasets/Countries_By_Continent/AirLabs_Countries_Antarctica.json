@@ -1,0 +1,27 @@
+[
+     {
+          "code": "AQ",
+          "code3": "ATA",
+          "name": "Antarctica"
+     },
+     {
+          "code": "BV",
+          "code3": "BVT",
+          "name": "Bouvet Island"
+     },
+     {
+          "code": "GS",
+          "code3": "SGS",
+          "name": "South Georgia and the South Sandwich Islands"
+     },
+     {
+          "code": "HM",
+          "code3": "HMD",
+          "name": "Heard Island and McDonald Islands"
+     },
+     {
+          "code": "TF",
+          "code3": "ATF",
+          "name": "French Southern Territories"
+     }
+]
