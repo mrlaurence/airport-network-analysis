@@ -209,17 +209,17 @@ fprintf("\n[INFO] Computing clustering coefficients for configuration model samp
 
 % Initalise a vector to store the average local clustering coefficients for 1000 random
 % networks.
-configAverageClusteringCoefficientVec = zeros(1, 1);
+configAverageClusteringCoefficientVec = zeros(1, 1000);
 
 % Initalise a vector to store the average shortest path lengths for 1000 random networks.
-configAverageShortestPathLengthVec = zeros(1, 1);
+configAverageShortestPathLengthVec = zeros(1, 1000);
 
 % Initalise a matrix to store the fraction of triangles which are of a particular motif
 % type (cycle, middleman, in, out), averaged across nodes, in each of the 1000 random
 % networks.
-averageConfigMotifDistribution = zeros(4, 1);
+averageConfigMotifDistribution = zeros(4, 1000);
 
-for i = 1 : 1
+for i = 1 : 1000
     if floor(i / 10) == i / 10
         fprintf("[INFO] Progress: %d%%\n", i/10);
     end
